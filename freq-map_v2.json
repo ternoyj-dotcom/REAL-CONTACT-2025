@@ -1,45 +1,71 @@
 {
-  "frequencies": {
-    "122.800": "UNICOM",
-    "121.500": "GUARD",
-    "121.205": "LFLB_APP",
-    "127.100": "LFLB_ATIS",
-    "118.300": ["LFLB_TWR-INFO","LFBD_TWR"],
-    "123.700": "LFLB_TWR-INFO",
-    "125.230": "LFLG_ATIS",
-    "121.000": "LFLG_TWR-GND",
-    "121.655": "LFLG_TWR-GND",
-    "133.855": "LFLS_ATIS",
-    "119.300": "LFLS_TWR-GND",
-    "121.930": "LFLS_TWR-GND",
-    "129.875": "LFBD_APP",
-    "131.155": "LFBD_ATIS",
-    "121.900": ["LFBD_GND","LFPX_GND"],
-    "121.155": "LFPG_APP",
-    "128.230": ["LFPG_ATIS","LFBZ_ATIS"],
-    "121.610": "LFPG_GND",
-    "119.250": "LFPG_TWR",
-    "121.950": ["LFPZ_GND","LFBZ_GND"],
-    "118.000": "LFPZ_TWR",
-    "129.525": "LFPX_TWR",
-    "127.480": "LFPN_ATIS",
-    "122.130": "LFPN_TWR-GND",
-    "120.750": "LFPN_TWR-GND",
-    "125.600": "LFBZ_APP",
-    "118.700": "LFBZ_TWR",
-    "123.065": "MONTAGNE",
-    "123.000": "LOUNGE ROOM"
-},
-  "airports": {
-    "LFBD": { "pos": "44° 49' 33'' N , 000° 42' 75'' W" },
-    "LFBZ": { "pos": "43° 28' 05'' N , 001° 31' 52'' E" },
-            "LFLS": { "pos": "45° 21' 46'' N , 005° 19' 57'' E" },
-            "LFPN": { "pos": "48° 44' 59'' N , 002° 06' 40'' E" },
-    "LFPO": { "pos": "48° 43' 23'' N , 002° 22' 46'' E" },
-    "LFPG": { "pos": "49° 00' 35'' N , 002° 32' 52'' E" },
-            "LFPX": { "pos": "48° 50' 32'' N , 001° 58' 49'' E" },
-        "LFPZ": { "pos": "48° 48' 37'' N , 002° 04' 24'' E" }
-    
-  }
+    "frequencies": {
+        "122.800": "UNICOM",
+        "121.500": "GUARD",
+        "121.205": "LFLB_APP",
+        "127.100": "LFLB_ATIS",
+        "118.300": [
+            "LFLB_TWR-INFO",
+            "LFBD_TWR"
+        ],
+        "123.700": "LFLB_TWR-INFO",
+        "125.230": "LFLG_ATIS",
+        "121.000": "LFLG_TWR-GND",
+        "121.655": "LFLG_TWR-GND",
+        "133.855": "LFLS_ATIS",
+        "119.300": "LFLS_TWR-GND",
+        "121.930": "LFLS_TWR-GND",
+        "129.875": "LFBD_APP",
+        "131.155": "LFBD_ATIS",
+        "121.900": [
+            "LFBD_GND",
+            "LFPX_GND"
+        ],
+        "121.155": "LFPG_APP",
+        "128.230": [
+            "LFPG_ATIS",
+            "LFBZ_ATIS"
+        ],
+        "121.610": "LFPG_GND",
+        "119.250": "LFPG_TWR",
+        "121.950": [
+            "LFPZ_GND",
+            "LFBZ_GND"
+        ],
+        "118.000": "LFPZ_TWR",
+        "129.525": "LFPX_TWR",
+        "127.480": "LFPN_ATIS",
+        "122.130": "LFPN_TWR-GND",
+        "120.750": "LFPN_TWR-GND",
+        "125.600": "LFBZ_APP",
+        "118.700": "LFBZ_TWR",
+        "123.065": "MONTAGNE",
+        "123.000": "LOUNGE ROOM"
+    },
+    "airports": {
+        "LFBD": {
+            "pos": "44° 49' 33'' N , 000° 42' 75'' W"
+        },
+        "LFBZ": {
+            "pos": "43° 28' 05'' N , 001° 31' 52'' E"
+        },
+        "LFLS": {
+            "pos": "45° 21' 46'' N , 005° 19' 57'' E"
+        },
+        "LFPN": {
+            "pos": "48° 44' 59'' N , 002° 06' 40'' E"
+        },
+        "LFPO": {
+            "pos": "48° 43' 23'' N , 002° 22' 46'' E"
+        },
+        "LFPG": {
+            "pos": "49° 00' 35'' N , 002° 32' 52'' E"
+        },
+        "LFPX": {
+            "pos": "48° 50' 32'' N , 001° 58' 49'' E"
+        },
+        "LFPZ": {
+            "pos": "48° 48' 37'' N , 002° 04' 24'' E"
+        }
+    }
 }
-
