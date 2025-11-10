@@ -1,7 +1,10 @@
 {
     "122.800": "UNICOM",
     "121.500": "GUARD",
-    "123.000": "LOUNGE ROOM",
+    "121.205": "LFLB_APP",
+    "127.100": "LFLB_ATIS",
+    "118.300": "LFLB_TWR-INFO",
+    "123.700": "LFLB_TWR-INFO",
     "125.230": "LFLG_ATIS",
     "121.000": "LFLG_TWR-GND",
     "121.655": "LFLG_TWR-GND",
@@ -27,5 +30,6 @@
     "128.230": "LFBZ_ATIS",
     "121.950": "LFBZ_GND",
     "118.700": "LFBZ_TWR",
-    "123.065":"MONTAGNE"
+    "123.065": "MONTAGNE",
+    "123.000": "LOUNGE ROOM"
 }
