@@ -1,8 +1,16 @@
-{
-  "LFBD": {
-    "raw": "LFBD 151030Z AUTO 21010KT 9999 FEW020 18/08 Q1007 NOSIG"
+[{
+  "Name": "RS-Test-1",
+  "Desc":"Gros Orage, ca tape",
+    "Metar": "LFLL 162130Z 22045G72KT 0900 +TSRA BKN004 OVC015CB 18/17 Q992 WS ALL RWY TEMPO 3000 +RA"
   },
-  "LFMN": {
-    "raw": "LFMN 151030Z 14005KT 9999 FEW020 20/12 Q1015 NOSIG"
+{
+  "Name": "RS-Test-2",
+    "Desc":"Tranquillou, fait beau !",
+    "Metar": "LFPB 171200Z 18010KT 9999 FEW020 22/15 Q1017 NOSIG"
+  },{
+  "Name": "RS-Test-3",
+    "Desc":"Ca soufle un peu, qq nuages mais pas pire",
+    "Metar": "LFBO 171230Z 23015KT 9999 SCT030 BKN060 24/12 Q1015 NOSIG"
   }
-}
+]
+
