@@ -23,7 +23,7 @@
       "prenom": "Antoine",
       "password": "Z6W5T4E8",
       "validite": "OUT",
-      "observations": "membre"
+      "observations": "MEMBRE"
     },
     {
       "idRS": "RS13",
@@ -39,6 +39,14 @@
       "prenom": "Jérôme",
       "password": "sunshine",
       "validite": "VALIDE",
+      "observations": "USER"
+    },
+    {
+      "idRS": "RS13-OUT",
+      "nom": "TERNOY",
+      "prenom": "Jérôme",
+      "password": "sunshine",
+      "validite": "OUT",
       "observations": "USER"
     }
   ]
