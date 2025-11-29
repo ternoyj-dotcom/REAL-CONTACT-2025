@@ -2,13 +2,21 @@
   "version": 1,
   "users": [
     {
-      "idRS": "RS01",
+      "idRS": "RS1",
       "nom": "GAY",
       "prenom": "Bruno",
       "password": "ACV33680",
       "validite": "VALIDE",
       "observations": "ADMIN"
     },
+            {
+      "idRS": "RS2",
+      "nom": "NICCO",
+      "prenom": "Alain",
+      "password": "BONJOUR",
+      "validite": "VALIDE",
+      "observations": "ADMIN"
+    }
     {
       "idRS": "RS110",
       "nom": "DELACRETAZ",
@@ -24,6 +32,14 @@
       "password": "sunshine",
       "validite": "VALIDE",
       "observations": "ADMIN"
+    },
+            {
+      "idRS": "RS13-USER",
+      "nom": "TERNOY",
+      "prenom": "Jérôme",
+      "password": "sunshine",
+      "validite": "VALIDE",
+      "observations": "USER"
     }
   ]
 }
