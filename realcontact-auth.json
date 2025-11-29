@@ -9,7 +9,7 @@
       "validite": "VALIDE",
       "observations": "ADMIN"
     },
-            {
+    {
       "idRS": "RS2",
       "nom": "NICCO",
       "prenom": "Alain",
@@ -25,7 +25,7 @@
       "validite": "OUT",
       "observations": "membre"
     },
-        {
+    {
       "idRS": "RS13",
       "nom": "TERNOY",
       "prenom": "Jérôme",
@@ -33,7 +33,7 @@
       "validite": "VALIDE",
       "observations": "ADMIN"
     },
-            {
+    {
       "idRS": "RS13-USER",
       "nom": "TERNOY",
       "prenom": "Jérôme",
