@@ -2,35 +2,43 @@
   "version": 1,
   "users": [
     {
-      "idRS": "CONTROL1-REALSKY",
+      "idRS": "CONTROL1",
       "nom": "REALSKY",
       "prenom": "Contrôle1",
-      "password": "ctrl1rs",
+      "password": "REALSKY",
       "validite": "VALIDE",
-      "observations": "CONTROLE"
+      "observations": "ATC"
     },
     {
-      "idRS": "CONTROL2-REALSKY",
+      "idRS": "CONTROL2",
       "nom": "REALSKY",
       "prenom": "Contrôle2",
-      "password": "ctrl2rs",
+      "password": "REALSKY",
       "validite": "VALIDE",
-      "observations": "CONTROLE"
+      "observations": "ATC"
     },
     {
-      "idRS": "CONTROL3-REALSKY",
+      "idRS": "CONTROL3",
       "nom": "REALSKY",
       "prenom": "Contrôle3",
-      "password": "ctrl3rs",
+      "password": "REALSKY",
       "validite": "VALIDE",
-      "observations": "CONTROLE"
+      "observations": "ATC"
+    },
+        {
+      "idRS": "CONTROL4",
+      "nom": "REALSKY",
+      "prenom": "Contrôl4e",
+      "password": "REALSKY",
+      "validite": "VALIDE",
+      "observations": "ATC"
     },
     {
-      "idRS": "173",
+      "idRS": "RS173",
       "nom": "TISSANDIER",
       "prenom": "Tissandier",
       "password": "24FEXX67",
-      "validite": "out",
+      "validite": "OUT",
       "observations": "out"
     },
     {
@@ -262,7 +270,7 @@
       "nom": "ALCYONS1",
       "prenom": "ALCYONS",
       "password": "WLR811E1",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -270,7 +278,7 @@
       "nom": "ALCYONS2",
       "prenom": "ALCYONS",
       "password": "WLR811E1",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -278,7 +286,7 @@
       "nom": "ALCYONS3",
       "prenom": "ALCYONS",
       "password": "WLR811E1",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -286,7 +294,7 @@
       "nom": "ALCYONS4",
       "prenom": "ALCYONS",
       "password": "WLR811E1",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -294,7 +302,7 @@
       "nom": "ALCYONS5",
       "prenom": "ALCYONS",
       "password": "WLR811E1",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -406,7 +414,7 @@
       "nom": "ACV1",
       "prenom": "ACV",
       "password": "V7939XGU",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -414,7 +422,7 @@
       "nom": "ACV2",
       "prenom": "ACV",
       "password": "V7939XGU",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -422,7 +430,7 @@
       "nom": "ACV3",
       "prenom": "ACV",
       "password": "V7939XGU",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -430,7 +438,7 @@
       "nom": "ACV4",
       "prenom": "ACV",
       "password": "V7939XGU",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -438,7 +446,7 @@
       "nom": "ACV5",
       "prenom": "ACV",
       "password": "V7939XGU",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -454,7 +462,7 @@
       "nom": "TISSANDIER",
       "prenom": "Tissandier",
       "password": "24FEXX67",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -462,7 +470,7 @@
       "nom": "TISSANDIER",
       "prenom": "Tissandier",
       "password": "24FEXX67",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -470,7 +478,7 @@
       "nom": "TISSANDIER",
       "prenom": "Tissandier",
       "password": "24FEXX67",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -478,7 +486,7 @@
       "nom": "TISSANDIER",
       "prenom": "Tissandier",
       "password": "24FEXX67",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -486,7 +494,7 @@
       "nom": "TISSANDIER",
       "prenom": "Tissandier",
       "password": "24FEXX67",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "Aéroclub"
     },
     {
@@ -526,7 +534,7 @@
       "nom": "BAUDELOT",
       "prenom": "Olivier",
       "password": "R8P99SG4",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -542,7 +550,7 @@
       "nom": "FICHELLE",
       "prenom": "Jean Pierre",
       "password": "JG6QR632",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -566,7 +574,7 @@
       "nom": "BONNEUIL",
       "prenom": "Christophe",
       "password": "D8V8X86S",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -582,7 +590,7 @@
       "nom": "SCHINDLER",
       "prenom": "Kaspar",
       "password": "N3P7P3G9",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -646,7 +654,7 @@
       "nom": "MADOUI",
       "prenom": "Samy",
       "password": "V7939XGU",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -654,7 +662,7 @@
       "nom": "WEBER",
       "prenom": "Guy",
       "password": "3DR3Q8B9",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -678,7 +686,7 @@
       "nom": "CAPIOMONT",
       "prenom": "Emmanuel",
       "password": "Z3S838YC",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -694,7 +702,7 @@
       "nom": "LOPEZ",
       "prenom": "Felipe",
       "password": "6F35XN3V",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -702,7 +710,7 @@
       "nom": "BOILEAU",
       "prenom": "Paul",
       "password": "NDTGMFW0",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -750,7 +758,7 @@
       "nom": "Michaud",
       "prenom": "Jean Louis",
       "password": "G7JT443X",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -758,7 +766,7 @@
       "nom": "MICHEL",
       "prenom": "Eric",
       "password": "2HZL58D7",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -782,7 +790,7 @@
       "nom": "MESSELOT",
       "prenom": "Alain",
       "password": "7C28E6JT",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -790,7 +798,7 @@
       "nom": "KALKBRENNER",
       "prenom": "Bastien",
       "password": "J982U3ZX",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
@@ -798,12 +806,12 @@
       "nom": "JORDAN",
       "prenom": "Emmanuel",
       "password": "K78L9NH5",
-      "validite": "VALIDE",
+      "validite": "OUT",
       "observations": "membre"
     },
     {
       "idRS": "RS53",
-      "nom": "Blanquer",
+      "nom": "BLANQUER",
       "prenom": "Helene",
       "password": "r8R34Rbn",
       "validite": "VALIDE",
@@ -847,7 +855,7 @@
       "prenom": "TEST1",
       "password": "CR75D9Z7a!",
       "validite": "OUT",
-      "observations": "TEST3"
+      "observations": "TEST1"
     }
   ]
 }
